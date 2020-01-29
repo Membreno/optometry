@@ -1,0 +1,14 @@
+#profile__picture {
+  -webkit-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  width: 30%;
+  margin-top: 10px;
+}
+
+.wallpaper {
+  background-image: url("../images/clem-onojeghuo-TI-mxzGbsmk-unsplash.jpg") 50% 0 no-repeat fixed;
+  background-size: cover;
+  min-height: 550px;
+}
