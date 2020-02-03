@@ -3,12 +3,14 @@
   -ms-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  width: 30%;
+  width: 20%;
   margin-top: 10px;
 }
 
 .wallpaper {
-  background-image: url("../images/clem-onojeghuo-TI-mxzGbsmk-unsplash.jpg") 50% 0 no-repeat fixed;
+  background-image: url("../images/clem-onojeghuo-TI-mxzGbsmk-unsplash.jpg");
   background-size: cover;
-  min-height: 550px;
+  min-height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
